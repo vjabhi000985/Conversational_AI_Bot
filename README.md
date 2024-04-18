@@ -17,4 +17,11 @@ This project creates a user-friendly Streamlit application called "AI Powered Da
 - Navigate to your project directory in the terminal.
 - Run the command `streamlit run main.py` (replace `main.py` with your actual script name) to launch the app in your web browser.
 
+## Usages:
+- Interact with the AI tutor by entering your questions or data science topics in the chat interface.
+- The AI tutor will analyze your input and provide informative responses using the Gemini Pro model.
 
+## Further Development:
+- Enhance the chat interface with features like history and user profile management.
+- Integrate the ability for users to provide feedback on AI responses for continuous learning.
+- Expand the scope of topics covered by the AI tutor by developing a more comprehensive model and integrating it with Gemini pro to generate better and more accurate results.
